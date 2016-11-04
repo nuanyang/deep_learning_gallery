@@ -1,1 +1,3 @@
-# deep_learning_gallery
+# Deep Learning Gallery
+
+## including some test python code for deep learning application
